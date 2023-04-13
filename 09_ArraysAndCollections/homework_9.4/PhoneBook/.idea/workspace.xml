@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b444aec5-1a94-40bc-8d22-2f4548ca5040" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20gCMSVQ9B6TVa3hF7y23zdVPdC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../homework_9.5/CoolNumber" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.PhoneBookTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PhoneBook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhoneBookTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b444aec5-1a94-40bc-8d22-2f4548ca5040" name="Default Changelist" comment="" />
+      <created>1636456795397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636456795397</updated>
+      <workItem from="1636456799690" duration="9001000" />
+      <workItem from="1636558328540" duration="359000" />
+      <workItem from="1636558761421" duration="5136000" />
+      <workItem from="1636566165293" duration="41000" />
+      <workItem from="1636629488889" duration="9422000" />
+      <workItem from="1636712407999" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="9.11 Домашняя работа 9.4&#10;Задание выполнено.">
+      <created>1636640295836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636640295836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9.11 Домашняя работа 9.4&#10;Задание выполнено." />
+    <option name="LAST_COMMIT_MESSAGE" value="9.11 Домашняя работа 9.4&#10;Задание выполнено." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="567" y="233" key="#Notifications" timestamp="1636558995760">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="567" y="233" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1636558995760" />
+    <state x="487" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1636473307090">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="487" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1636473307090" />
+    <state x="386" y="127" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1636474922506">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="386" y="127" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.738@0.0.1366.738" timestamp="1636474922506" />
+    <state x="203" y="0" key="CommitChangelistDialog2" timestamp="1636640295113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="203" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1636640295113" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1636712433546">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1636712433546" />
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom" timestamp="1636642987675">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1636642987675" />
+    <state width="1322" height="176" key="GridCell.Tab.0.center" timestamp="1636642987675">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1636642987675" />
+    <state width="1322" height="176" key="GridCell.Tab.0.left" timestamp="1636642987675">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1636642987675" />
+    <state width="1322" height="176" key="GridCell.Tab.0.right" timestamp="1636642987675">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1636642987675" />
+    <state x="183" y="0" key="SettingsEditor" timestamp="1636566188339">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="183" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1636566188339" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1636640297661">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1636640297661" />
+  </component>
+</project>

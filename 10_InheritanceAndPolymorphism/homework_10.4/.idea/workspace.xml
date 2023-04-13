@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5a19722-0dcf-46a1-85b1-ddf3a6c4180b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../07_NumbersAndDates/GeometryCalculator/GeometryCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_NumbersAndDates/GeometryCalculator/GeometryCalculator.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20ubbWFdALiTKipAPdr3WM6tSjj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../11_AdvancedOOPFeatures/homework_11.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="homework_10.4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a19722-0dcf-46a1-85b1-ddf3a6c4180b" name="Default Changelist" comment="" />
+      <created>1636897491846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636897491846</updated>
+      <workItem from="1636897493468" duration="11262000" />
+      <workItem from="1637005084498" duration="90000" />
+      <workItem from="1637080045258" duration="2937000" />
+      <workItem from="1637268260078" duration="632000" />
+      <workItem from="1637333469050" duration="2737000" />
+    </task>
+    <task id="LOCAL-00001" summary="Домашняя работа 10.4">
+      <created>1637082022221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637082022221</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Домашняя работа 10.4 Исправления">
+      <created>1637335923328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637335923329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашняя работа 10.4" />
+    <MESSAGE value="Домашняя работа 10.4 Исправления" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа 10.4 Исправления" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1636911925237">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1636911925237" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636904506286">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1636904506286" />
+    <state x="412" y="230" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1637335082630">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="230" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1637335082630" />
+    <state x="191" y="0" key="CommitChangelistDialog2" timestamp="1637335922342">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="191" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1637335922342" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1637336480840">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1637336480840" />
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom" timestamp="1637336483130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1637336483130" />
+    <state width="1322" height="176" key="GridCell.Tab.0.center" timestamp="1637336483130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1637336483130" />
+    <state width="1322" height="176" key="GridCell.Tab.0.left" timestamp="1637336483130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1637336483130" />
+    <state width="1322" height="176" key="GridCell.Tab.0.right" timestamp="1637336483130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1637336483130" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1637082430785">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1637082430785" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1637335925753">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1637335925753" />
+    <state x="413" y="129" key="extract.method.dialog" timestamp="1637080724957">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="129" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1637080724957" />
+  </component>
+</project>

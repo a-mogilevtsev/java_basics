@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75d21d68-4c5c-418d-a1ac-497b6f7e968f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../16_WebApplication/Todolist/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16_WebApplication/Todolist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../16_WebApplication/Todolist/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="27YeKBnCFIv2TVpFBeTXCcvZO1S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VoteAnalyzer" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Loader">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loader" />
+      <module name="CarNumberGenerator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="CarNumberGenerator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Loader" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75d21d68-4c5c-418d-a1ac-497b6f7e968f" name="Default Changelist" comment="" />
+      <created>1649501380956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649501380956</updated>
+      <workItem from="1649501382736" duration="7560000" />
+      <workItem from="1649535535538" duration="153000" />
+    </task>
+    <task id="LOCAL-00001" summary="22. Производительность и оптимизация. Практическая работа №1">
+      <created>1649517524853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649517524853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22. Производительность и оптимизация. Практическая работа №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="22. Производительность и оптимизация. Практическая работа №1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="169" y="0" key="CommitChangelistDialog2" timestamp="1649517523142">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="169" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1649517523142" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1649535686670">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1649535686670" />
+    <state width="1322" height="221" key="GridCell.Tab.0.bottom" timestamp="1649518895948">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1649518895948" />
+    <state width="1322" height="221" key="GridCell.Tab.0.center" timestamp="1649518895948">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1649518895948" />
+    <state width="1322" height="221" key="GridCell.Tab.0.left" timestamp="1649518895948">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1649518895948" />
+    <state width="1322" height="221" key="GridCell.Tab.0.right" timestamp="1649518895948">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1649518895948" />
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1649518895949">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1649518895949" />
+    <state width="1322" height="221" key="GridCell.Tab.1.center" timestamp="1649518895949">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1649518895949" />
+    <state width="1322" height="221" key="GridCell.Tab.1.left" timestamp="1649518895949">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1649518895949" />
+    <state width="1322" height="221" key="GridCell.Tab.1.right" timestamp="1649518895949">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1649518895949" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1649517528404">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1649517528404" />
+  </component>
+</project>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86d74633-0a3e-4e36-b98b-8d1e46b850c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../16_WebApplication/Todolist/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16_WebApplication/Todolist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../16_WebApplication/Todolist/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="26vi9qbT2qpYhVaJeTQbFTkueuE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.skillbox.mongodemo.Test" />
+      <module name="mongodemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.skillbox.mongodemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86d74633-0a3e-4e36-b98b-8d1e46b850c7" name="Default Changelist" comment="" />
+      <created>1648310311221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648310311221</updated>
+      <workItem from="1648310315212" duration="1898000" />
+      <workItem from="1648423786357" duration="680000" />
+      <workItem from="1648484308673" duration="9967000" />
+      <workItem from="1648537271481" duration="1060000" />
+      <workItem from="1648562243539" duration="2439000" />
+      <workItem from="1648650407631" duration="2746000" />
+    </task>
+    <task id="LOCAL-00001" summary="20.8 NoSQL базы данных. Практическая работа №3. Работа с MongoDb.">
+      <created>1648652483730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648652483731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20.8 NoSQL базы данных. Практическая работа №3. Работа с MongoDb." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.8 NoSQL базы данных. Практическая работа №3. Работа с MongoDb." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648314490594">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1648314490594" />
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1648490092335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1648490092335" />
+    <state x="243" y="0" width="945" height="738" key="CommitChangelistDialog2" timestamp="1648652482569">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="243" y="0" width="945" height="738" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1648652482569" />
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1648656854365">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1648656854365" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1648656854365">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1648656854365" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1648656854364">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1648656854364" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1648656854365">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1648656854365" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1648652488021">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1648652488021" />
+    <state x="65" y="29" key="new project wizard" timestamp="1648656851080">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="29" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1648656851080" />
+  </component>
+</project>

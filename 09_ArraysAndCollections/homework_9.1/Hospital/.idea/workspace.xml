@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ee2313c-2dbc-4b9a-905a-ecc55a03eb7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20CQ6RfzQIFqikiL0RAhVyfUXtE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../homework_9.2/TodoList" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital" />
+      <module name="Hospital" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Hospital" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hospital" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HospitalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.HospitalTest" />
+        <item itemvalue="Application.Hospital" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ee2313c-2dbc-4b9a-905a-ecc55a03eb7a" name="Default Changelist" comment="" />
+      <created>1635545913159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635545913159</updated>
+      <workItem from="1635545916932" duration="2249000" />
+      <workItem from="1635550183392" duration="2772000" />
+      <workItem from="1635851264754" duration="289000" />
+      <workItem from="1635851735333" duration="213000" />
+      <workItem from="1635877744176" duration="3586000" />
+    </task>
+    <task id="LOCAL-00001" summary="9.5 Домашняя работа 9.1&#10;Выполнены задания 1,2">
+      <created>1635851537980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635851537980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9.5 Домашняя работа 9.1&#10;Задание 1 скорректировно с учётом замечаний.">
+      <created>1635880808901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635880808901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9.5 Домашняя работа 9.1&#10;Выполнены задания 1,2" />
+    <MESSAGE value="9.5 Домашняя работа 9.1&#10;Задание 1 скорректировно с учётом замечаний." />
+    <option name="LAST_COMMIT_MESSAGE" value="9.5 Домашняя работа 9.1&#10;Задание 1 скорректировно с учётом замечаний." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1166" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1635881514518">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="100" y="100" width="1166" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.738@0.0.1366.738" timestamp="1635881514518" />
+    <state x="223" y="0" key="CommitChangelistDialog2" timestamp="1635880808066">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="223" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1635880808066" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1635881512172">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1635881512172" />
+    <state width="1306" height="172" key="GridCell.Tab.0.bottom" timestamp="1635881514442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1635881514442" />
+    <state width="1306" height="172" key="GridCell.Tab.0.center" timestamp="1635881514441">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1635881514441" />
+    <state width="1306" height="172" key="GridCell.Tab.0.left" timestamp="1635881514441">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1635881514441" />
+    <state width="1306" height="172" key="GridCell.Tab.0.right" timestamp="1635881514442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1635881514442" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1635880811162">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1635880811162" />
+  </component>
+</project>

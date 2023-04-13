@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c4af39e-0bd9-46e0-b06e-206e2a9ecea9" name="Default Changelist" comment="9.9 Домашняя работа 9.3&#10;Скорректировано решение. Паттерн для проверки вынесен как константа класса.">
+      <change beforePath="$PROJECT_DIR$/../../homework_9.4/PhoneBook/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework_9.4/PhoneBook/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework_9.4/PhoneBook/src/main/java/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework_9.4/PhoneBook/src/main/java/PhoneBook.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20dVZs0wBsBTiXsAlSjelLGwc3N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.EmailListTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="EmailList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmailList" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmailListTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c4af39e-0bd9-46e0-b06e-206e2a9ecea9" name="Default Changelist" comment="" />
+      <created>1636374509135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636374509135</updated>
+      <workItem from="1636374518667" duration="719000" />
+      <workItem from="1636447707875" duration="6564000" />
+      <workItem from="1636456776388" duration="21000" />
+      <workItem from="1636639502882" duration="754000" />
+    </task>
+    <task id="LOCAL-00001" summary="9.9 Домашняя работа 9.3&#10;Задание выполнено">
+      <created>1636455713537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636455713537</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9.9 Домашняя работа 9.3&#10;Скорректировано решение. Паттерн для проверки вынесен как константа класса.">
+      <created>1636640089856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636640089856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9.9 Домашняя работа 9.3&#10;Задание выполнено" />
+    <MESSAGE value="9.9 Домашняя работа 9.3&#10;Скорректировано решение. Паттерн для проверки вынесен как константа класса.&#10;9.9 Домашняя работа 9.4&#10;Задание выполнено" />
+    <MESSAGE value="9.9 Домашняя работа 9.3&#10;Скорректировано решение. Паттерн для проверки вынесен как константа класса." />
+    <option name="LAST_COMMIT_MESSAGE" value="9.9 Домашняя работа 9.3&#10;Скорректировано решение. Паттерн для проверки вынесен как константа класса." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="105" width="1165" height="533" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1636454556059">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="100" y="105" width="1165" height="533" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.738@0.0.1366.738" timestamp="1636454556059" />
+    <state x="450" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1636450364348">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="450" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1636450364348" />
+    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1636640089031">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1636640089031" />
+    <state x="462" y="125" key="FileChooserDialogImpl" timestamp="1636456794522">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1636456794522" />
+    <state width="1305" height="170" key="GridCell.Tab.0.bottom" timestamp="1636640257983">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="170" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1636640257983" />
+    <state width="1305" height="170" key="GridCell.Tab.0.center" timestamp="1636640257983">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="170" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1636640257983" />
+    <state width="1305" height="170" key="GridCell.Tab.0.left" timestamp="1636640257983">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="170" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1636640257983" />
+    <state width="1305" height="170" key="GridCell.Tab.0.right" timestamp="1636640257983">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="170" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1636640257983" />
+    <state x="274" y="103" key="Vcs.Push.Dialog.v2" timestamp="1636640092858">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1636640092858" />
+    <state x="345" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1636639646228">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="345" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1636639646228" />
+  </component>
+</project>

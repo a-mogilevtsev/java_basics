@@ -1,0 +1,49 @@
+Index: ../../16_WebApplication/Todolist/application.properties
+===================================================================
+--- ../../16_WebApplication/Todolist/application.properties	(revision 39de56f68eef2a4cd3f9247f2db24d486dc897b0)
++++ ../../16_WebApplication/Todolist/application.properties	(revision 39de56f68eef2a4cd3f9247f2db24d486dc897b0)
+@@ -1,4 +0,0 @@
+-spring.datasource.url=jdbc:mysql://localhost:3306/todolistdb
+-spring.datasource.username=root
+-spring.datasource.password=graveonmysql
+-spring.jpa.hibernate.ddl-auto=none
+Index: ../../16_WebApplication/Todolist/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\"\r\n         xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\r\n    <modelVersion>4.0.0</modelVersion>\r\n\r\n    <groupId>org.example</groupId>\r\n    <artifactId>Todolist</artifactId>\r\n    <version>1.0-SNAPSHOT</version>\r\n\r\n    <dependencies>\r\n        <dependency>\r\n            <groupId>org.springframework.boot</groupId>\r\n            <artifactId>spring-boot-starter-web</artifactId>\r\n            <version>2.1.4.RELEASE</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>org.springframework.boot</groupId>\r\n            <artifactId>spring-boot-starter-data-jpa</artifactId>\r\n            <version>2.1.4.RELEASE</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>mysql</groupId>\r\n            <artifactId>mysql-connector-java</artifactId>\r\n            <version>8.0.25</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>org.springframework.boot</groupId>\r\n            <artifactId>spring-boot-starter-thymeleaf</artifactId>\r\n            <version>2.1.4.RELEASE</version>\r\n        </dependency>\r\n    </dependencies>\r\n\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../16_WebApplication/Todolist/pom.xml	(revision 39de56f68eef2a4cd3f9247f2db24d486dc897b0)
++++ ../../16_WebApplication/Todolist/pom.xml	(date 1647532494483)
+@@ -8,6 +8,30 @@
+     <artifactId>Todolist</artifactId>
+     <version>1.0-SNAPSHOT</version>
+ 
++    <build>
++        <plugins>
++            <plugin>
++                <groupId>org.apache.maven.plugins</groupId>
++                <artifactId>maven-compiler-plugin</artifactId>
++                <configuration>
++                    <source>8</source>
++                    <target>8</target>
++                </configuration>
++            </plugin>
++            <plugin>
++                <groupId>org.springframework.boot</groupId>
++                <artifactId>spring-boot-maven-plugin</artifactId>
++                <version>2.1.4.RELEASE</version>
++            </plugin>
++        </plugins>
++    </build>
++
++    <parent>
++        <groupId>org.springframework.boot</groupId>
++        <artifactId>spring-boot-starter-parent</artifactId>
++        <version>2.1.4.RELEASE</version>
++    </parent>
++
+     <dependencies>
+         <dependency>
+             <groupId>org.springframework.boot</groupId>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41b00a81-313c-4cdd-8c3a-7107eb025fa0" name="Default Changelist" comment="22. Производительность и оптимизация. Практическая работа №2">
+      <change beforePath="$PROJECT_DIR$/../../16_WebApplication/Todolist/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../16_WebApplication/Todolist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../16_WebApplication/Todolist/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DBConnection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="27ZlrrIJNBYLJAsIXoZzgbemxBC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loader" />
+      <module name="VoteAnalyzer" />
+      <option name="VM_PARAMETERS" value="-Xmx4096m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Loader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41b00a81-313c-4cdd-8c3a-7107eb025fa0" name="Default Changelist" comment="" />
+      <created>1649535690375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649535690375</updated>
+      <workItem from="1649535692450" duration="4141000" />
+      <workItem from="1649661650787" duration="6266000" />
+      <workItem from="1649778625054" duration="4655000" />
+      <workItem from="1649783679343" duration="1849000" />
+      <workItem from="1649885304883" duration="263000" />
+      <workItem from="1649885652402" duration="53000" />
+      <workItem from="1650323216255" duration="2227000" />
+      <workItem from="1650449166091" duration="6156000" />
+      <workItem from="1650457155396" duration="918000" />
+      <workItem from="1650476543808" duration="597000" />
+      <workItem from="1650482110317" duration="598000" />
+      <workItem from="1650487648020" duration="4253000" />
+      <workItem from="1650555051937" duration="5631000" />
+      <workItem from="1650637104502" duration="627000" />
+      <workItem from="1650637846310" duration="1175000" />
+      <workItem from="1650664647012" duration="5923000" />
+      <workItem from="1650900894297" duration="4646000" />
+      <workItem from="1651041409065" duration="4526000" />
+      <workItem from="1651133853880" duration="1544000" />
+      <workItem from="1651141733137" duration="3203000" />
+      <workItem from="1652458314183" duration="134000" />
+    </task>
+    <task id="LOCAL-00001" summary="22. Производительность и оптимизация. Практическая работа №2">
+      <created>1650323769958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650323769958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="22. Производительность и оптимизация. Практическая работа №3">
+      <created>1651135426229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651135426229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22. Производительность и оптимизация. Практическая работа №2" />
+    <MESSAGE value="22. Производительность и оптимизация. Практическая работа №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="22. Производительность и оптимизация. Практическая работа №3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650637253357">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="229" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1650637253357" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1650671012834">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1650671012834" />
+    <state x="313" y="57" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1650455382478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="313" y="57" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.738@0.0.1366.738" timestamp="1650455382478" />
+    <state x="196" y="0" key="CommitChangelistDialog2" timestamp="1651135423330">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="196" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1651135423330" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1650454829066">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1650454829066" />
+    <state width="1322" height="221" key="GridCell.Tab.0.bottom" timestamp="1651158066632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1651158066632" />
+    <state width="1322" height="221" key="GridCell.Tab.0.center" timestamp="1651158066631">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1651158066631" />
+    <state width="1322" height="221" key="GridCell.Tab.0.left" timestamp="1651158066631">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1651158066631" />
+    <state width="1322" height="221" key="GridCell.Tab.0.right" timestamp="1651158066632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1651158066632" />
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1651158066633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1651158066633" />
+    <state width="1322" height="221" key="GridCell.Tab.1.center" timestamp="1651158066633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1651158066633" />
+    <state width="1322" height="221" key="GridCell.Tab.1.left" timestamp="1651158066632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1651158066632" />
+    <state width="1322" height="221" key="GridCell.Tab.1.right" timestamp="1651158066633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1651158066633" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1650902528595">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1650902528595" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1650487856870">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1650487856870" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1651135429768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1651135429768" />
+    <state x="387" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1650454947158">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="387" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1650454947158" />
+    <state x="65" y="0" key="new project wizard" timestamp="1652458446836">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1652458446836" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1649782925907">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1649782925907" />
+  </component>
+</project>

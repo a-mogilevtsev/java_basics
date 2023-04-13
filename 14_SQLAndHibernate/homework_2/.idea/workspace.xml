@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6963137b-9197-4663-b606-76450e418d5d" name="Default Changelist" comment="Домашняя работа 15.4 исправления" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23HxxqVcqWg0HdTGriwA0uKgV8S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../15_Multithreading/ImageResizer" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6963137b-9197-4663-b606-76450e418d5d" name="Default Changelist" comment="" />
+      <created>1641405062116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641405062116</updated>
+      <workItem from="1641405066713" duration="111000" />
+      <workItem from="1641405856315" duration="217000" />
+      <workItem from="1641406104680" duration="2497000" />
+      <workItem from="1641408648830" duration="251000" />
+      <workItem from="1641408929801" duration="653000" />
+      <workItem from="1641409621135" duration="270000" />
+      <workItem from="1641409926361" duration="267000" />
+      <workItem from="1641410232983" duration="788000" />
+      <workItem from="1641411058005" duration="448000" />
+      <workItem from="1641416374275" duration="599000" />
+      <workItem from="1641543908653" duration="4367000" />
+      <workItem from="1641628219939" duration="4454000" />
+      <workItem from="1641647818366" duration="10404000" />
+      <workItem from="1641760589533" duration="4842000" />
+      <workItem from="1641813899477" duration="5214000" />
+      <workItem from="1641900170911" duration="1414000" />
+      <workItem from="1641910107346" duration="603000" />
+      <workItem from="1641975109970" duration="10505000" />
+    </task>
+    <task id="LOCAL-00001" summary="Домашняя работа 15.2">
+      <created>1641548119031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641548119033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Домашняя работа 15.3">
+      <created>1641826668944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641826668944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Домашняя работа 15.4">
+      <created>1641983074103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641983074103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашняя работа 15.4 исправления">
+      <created>1641986729633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641986729633</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Домашняя работа 15.4 исправления">
+      <created>1641987186361</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641987186361</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашняя работа 15.2" />
+    <MESSAGE value="Домашняя работа 15.3" />
+    <MESSAGE value="Домашняя работа 15.4" />
+    <MESSAGE value="Домашняя работа 15.4 исправления" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа 15.4 исправления" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641824918592">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1641824918592" />
+    <state x="488" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1641982152303">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1641982152303" />
+    <state x="399" y="292" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1641546813956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="399" y="292" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.738@0.0.1366.738" timestamp="1641546813956" />
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1641987218441">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1641987218441" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1641996326496">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1641996326496" />
+    <state width="1322" height="214" key="GridCell.Tab.0.bottom" timestamp="1641996327972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1641996327972" />
+    <state width="1322" height="214" key="GridCell.Tab.0.center" timestamp="1641996327972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1641996327972" />
+    <state width="1322" height="214" key="GridCell.Tab.0.left" timestamp="1641996327971">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1641996327971" />
+    <state width="1322" height="214" key="GridCell.Tab.0.right" timestamp="1641996327972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1641996327972" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1641408485346">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1641408485346" />
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1641411329356">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1641411329356" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1641836153501">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1641836153501" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1641986731527">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1641986731527" />
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1641986963812">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1641986963812" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641987198952">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1641987198952" />
+  </component>
+</project>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a594427c-1cb5-4b0a-850f-28279874d590" name="Default Changelist" comment="9.5 Домашняя работа 9.1&#10;Выполнены задания 1,2,3">
+      <change beforePath="$PROJECT_DIR$/../../../08_Strings/FullNameFormatterRegExp/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../08_Strings/FullNameFormatterRegExp/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hospital/src/main/java/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hospital/src/main/java/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArray/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArray/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArray/src/main/java/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArray/src/main/java/ReverseArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20MJkgNxuWOhPP9nPGyRQWv99c7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReverseArray" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.TwoDimensionalArrayTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TwoDimensionalArray" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimensionalArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TwoDimensionalArray" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TwoDimensionalArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TwoDimensionalArrayTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a594427c-1cb5-4b0a-850f-28279874d590" name="Default Changelist" comment="" />
+      <created>1635848667761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635848667761</updated>
+      <workItem from="1635848670774" duration="2551000" />
+    </task>
+    <task id="LOCAL-00001" summary="9.5 Домашняя работа 9.1&#10;Выполнено задание 3">
+      <created>1635851211068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635851211068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9.5 Домашняя работа 9.1&#10;Выполнены задания 1,2,3" />
+    <MESSAGE value="9.5 Домашняя работа 9.1&#10;Выполнено задание 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.5 Домашняя работа 9.1&#10;Выполнено задание 3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1635850092616">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="450" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1635850092616" />
+    <state x="147" y="0" key="CommitChangelistDialog2" timestamp="1635851210302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="147" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1635851210302" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1635851221998">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1635851221998" />
+    <state width="1306" height="172" key="GridCell.Tab.0.bottom" timestamp="1635851223957">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1635851223957" />
+    <state width="1306" height="172" key="GridCell.Tab.0.center" timestamp="1635851223956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1635851223956" />
+    <state width="1306" height="172" key="GridCell.Tab.0.left" timestamp="1635851223956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1635851223956" />
+    <state width="1306" height="172" key="GridCell.Tab.0.right" timestamp="1635851223957">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="172" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1635851223957" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1635851213078">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1635851213078" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\projects\skillbox\java_basics\07_NumbersAndDates\GeometryCalculator\src\main\java\GeometryCalculator.java">
+<error line="15" severity="warning" message="тело &apos;if&apos; должно быть заключено в &apos;{}&apos;" source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="16" severity="warning" message="тело &apos;else&apos; должно быть заключено в &apos;{}&apos;" source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="22" severity="warning" message="тело &apos;if&apos; должно быть заключено в &apos;{}&apos;" source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+</file>
+</checkstyle>

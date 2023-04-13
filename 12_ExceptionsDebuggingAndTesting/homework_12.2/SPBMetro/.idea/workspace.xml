@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="484fe38c-8a8e-4f81-ac6b-366b3e1b1e30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/27714477" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_171a1d381b5d0e247c7d9bc7d0b69ee6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_2296e072d2000cc71eacd0dd5cceb46c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_42e017c09482a62e8e08d02dee605bdb.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_550225a2e4ba75692210fc6fafdfb36d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_568b39cb1b1fa5dec9d6c04085dbe761.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_81a73c29c14894561a4037a090f261b4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_84ae0a694523029d099b8ccc310fdcce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_84e751e317fe3af7f228a830372dc4e1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_9bb4921485a30fb093c490eb1ac75f2f.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_a9cde6c0d47ddf32c484222e24a1da05.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_aaea977bb5dce424ddc8ee41112fa815.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_af2d6655df1f37bab8a16442123fcfbf.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_bdee72f307f52973d461a2417a0e6583.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_cc280cecb57c2d09352cbba3dca63943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_d47703a069005beb77cd302c54aaaea4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_dd82d77734c1889c4d7eb889cacde687.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_e1145b9c1b53c19734b2148283e41cc0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_e56c681927536d081f5ed28ab700e07d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_eb125eef288f7ceeb402516db3025158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_ed78d535cb65c2fab3e524e1959b4c8b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_250_f920c42dd13c80fecc2b5f31e25e5aa9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_282def56fc033bf611d5b7627bf62ece.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_38e995c1ff40630a00dffaf73bdb6768.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_42e804f37c72c2ac030e74db6bb5ce3d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_53e08c07c4f96caf609f2b218eaa1c08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_5f8b677b6a19e40939bb8c7132d3f291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_63fef9c28a39b383de84fd9273c67107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_64bf4c2f19da67447daa249837349ccd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_7c64519b4a4339f78398db6e30852c44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_9307bfe850f74fd890a7b887d0882553.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_befbed6062ee910ce6829736fbc20779.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_c206ad21e0368cd76b9fab6040aed197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_c463ddc59c306d6b1d3f3f19bc90fe93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_d6eb545ad0933820d02ff344d86c37c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_d9b68466dbb52ae3fbd18531925f2c34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_e3ee086ecafb532025074649671f2e25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_e662a0fc2d8f770d3f9949f37213a3ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_e6ca472246ae14c4e9fc9cfee568ef6b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_e78078b4b2356a7b23a94f7e852e8f12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_280_f09af6ec3ec3cdb5ce727eb92bef7741.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_big_330_25d3d6595775ef0715c5884c1283110f.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_big_330_2bff54276a849e564e3332ddf99c17d7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_big_330_a824a10eaeffcae742afc6fde78ac9a3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_article_big_330_cbd6388f3361080101a71aa2ddc6a128.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_feature_580_c83a4520c8dbf6a5eb2c55e1e45e33cd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_photo_280_bc3010dbe01cb5d6a8c95da11edf77b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_0ece3448bc06e0dfc3fd4531c846ff46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_124990ad062e8b9aee58c54e1307e533.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_5c0e49d55960a07630b663486f865173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_65285e28d9bbb142bb17a84bf51a2f9e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_97c13ee0b010e5410fc823547fbc97b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_aa0e0abe6ae4bf4becd36a9655bd1acd.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_bd0960f50905e0c60415e8bc587fa302.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_cdd367a9e9efabab0902a81160ffafab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/owl_sq_40_f7d3b1415c4f7be8b025f71e36e0b5d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/top7_183af9c8d49d352c575e0652b6313235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/top7_2670573861c02c5a4bfe71aad5ffce17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/top7_4ce3d9ef47b28f7d1e08894b92955277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/top7_a209e797470f39bc44cabd2a2f9a169d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/top7_cc1332758b17eeefd856fed548846b1e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.4/images/top7_ed1156e61b300146dff5425556e308bd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.5/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_FilesAndNetwork/homework_13.5/src/main/java/PageParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="21dWHdUVNcXWtkH0zY48NdxhQHi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spb-metro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in spb-metro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testCalculateDuration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDuration" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testGetRouteOnTheLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testGetRouteOnTheLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testGetShortestRouteTwoConnections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testGetShortestRouteTwoConnections" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in spb-metro" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testCalculateDuration" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testGetRouteOnTheLine" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testGetShortestRouteTwoConnections" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="484fe38c-8a8e-4f81-ac6b-366b3e1b1e30" name="Default Changelist" comment="" />
+      <created>1638271357366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638271357366</updated>
+      <workItem from="1638271360581" duration="8675000" />
+      <workItem from="1638356111705" duration="15249000" />
+      <workItem from="1638437835313" duration="2665000" />
+      <workItem from="1638452541515" duration="857000" />
+      <workItem from="1638453540220" duration="6137000" />
+      <workItem from="1638469197579" duration="838000" />
+      <workItem from="1638537813100" duration="4672000" />
+      <workItem from="1638709226442" duration="6158000" />
+      <workItem from="1639650783683" duration="1490000" />
+      <workItem from="1639657460126" duration="190000" />
+      <workItem from="1639657810669" duration="854000" />
+      <workItem from="1640182054101" duration="6097000" />
+    </task>
+    <task id="LOCAL-00001" summary="Домашняя работа 13.2">
+      <created>1638454659254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638454659254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Домашняя работа 13.3">
+      <created>1638719609221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638719609222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашняя работа 13.2" />
+    <MESSAGE value="Домашняя работа 13.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа 13.3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1638454665774">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638454665774" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1638302401205">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1638302401205" />
+    <state x="715" y="227" key="#xdebugger.evaluate" timestamp="1638371010863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="715" y="227" key="#xdebugger.evaluate/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638371010863" />
+    <state x="322" y="0" key="CommitChangelistDialog2" timestamp="1638719608421">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="453" y="111" key="CommitChangelistDialog2/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638454657582" />
+    <state x="322" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1638719608421" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1638454508189">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638454508189" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1639657999548">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1639657999548" />
+    <state x="526" y="196" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1638721302278" />
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom" timestamp="1638721307242">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1876" height="279" key="GridCell.Tab.0.bottom/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638463940108" />
+    <state width="1322" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1638721307242" />
+    <state width="1322" height="176" key="GridCell.Tab.0.center" timestamp="1638721307242">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1876" height="279" key="GridCell.Tab.0.center/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638463940107" />
+    <state width="1322" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1638721307242" />
+    <state width="1322" height="176" key="GridCell.Tab.0.left" timestamp="1638721307242">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1876" height="279" key="GridCell.Tab.0.left/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638463940107" />
+    <state width="1322" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1638721307242" />
+    <state width="1322" height="176" key="GridCell.Tab.0.right" timestamp="1638721307242">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1876" height="279" key="GridCell.Tab.0.right/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638463940107" />
+    <state width="1322" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1638721307242" />
+    <state width="1876" height="345" key="GridCell.Tab.1.bottom" timestamp="1638453404556">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="345" key="GridCell.Tab.1.bottom/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638453404556" />
+    <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1638306005180" />
+    <state width="1876" height="345" key="GridCell.Tab.1.center" timestamp="1638453404555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="345" key="GridCell.Tab.1.center/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638453404555" />
+    <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1638306005180" />
+    <state width="1876" height="345" key="GridCell.Tab.1.left" timestamp="1638453404555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="345" key="GridCell.Tab.1.left/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638453404555" />
+    <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1638306005180" />
+    <state width="1876" height="345" key="GridCell.Tab.1.right" timestamp="1638453404556">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="345" key="GridCell.Tab.1.right/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638453404556" />
+    <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1638306005180" />
+    <state x="458" y="70" key="RollbackChangesDialog" timestamp="1638544290681">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="458" y="70" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1638544290681" />
+    <state x="393" y="181" key="Vcs.Push.Dialog.v2" timestamp="1638719611717">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1638454661790" />
+    <state x="393" y="181" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1638719611717" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638721274049">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1638721274049" />
+    <state x="342" y="185" key="new project wizard" timestamp="1639657553183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="185" key="new project wizard/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1639657553183" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1638302415291">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1638302415291" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="route" language="JAVA" />
+        <watch expression="way" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spb_metro$All_in_spb_metro.ic" NAME="All in spb-metro Coverage Results" MODIFIED="1638454429523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
